@@ -1,0 +1,9 @@
+.centrarIconos{
+    display: flex;
+    align-items: center;
+}
+.centrarIconos a{
+    margin-left: 10px;
+
+}
+
